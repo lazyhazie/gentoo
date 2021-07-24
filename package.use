@@ -1,0 +1,6 @@
+net-fs/cifs-utils creds
+kde-plasma/plasma-meta minizip qml wayland
+net-print/hplip hpcups kde libnotify scanner snmp static-ppds
+sys-auth/polkit elogind
+media-sound/abcde id3tag normalize replaygain
+kde-apps/gwenview activities kipi
